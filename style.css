@@ -13,19 +13,17 @@ body {
     padding-top: 5rem;
     padding-bottom: 2rem;
     color: white;
-    width: 100%;
     margin: 0 auto;
     flex-direction: column;
+    padding-left: 10em;
 }
 
 .subtitle {
-    display: block;
     font-size: 2em;
     margin:0;
     width: 100%;
 }
 .title {
-    display: block;
     font-size: 5em;
     margin:0;
     width:100%
