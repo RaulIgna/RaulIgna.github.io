@@ -28,3 +28,18 @@ body {
     margin:0;
     width:100%
 }
+
+.subtitle > a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.subtitle > a:hover {
+    text-decoration: underline;
+}
+
+.subtitle > a:visited {
+    color: white;
+    text-decoration: none;
+}
